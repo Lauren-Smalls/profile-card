@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/profile-card/static/css/main.e5f8b1cc.chunk.css",
+    "main.js": "/profile-card/static/js/main.987f3759.chunk.js",
+    "main.js.map": "/profile-card/static/js/main.987f3759.chunk.js.map",
+    "runtime-main.js": "/profile-card/static/js/runtime-main.6fbe92f0.js",
+    "runtime-main.js.map": "/profile-card/static/js/runtime-main.6fbe92f0.js.map",
+    "static/js/2.12957cd5.chunk.js": "/profile-card/static/js/2.12957cd5.chunk.js",
+    "static/js/2.12957cd5.chunk.js.map": "/profile-card/static/js/2.12957cd5.chunk.js.map",
+    "static/js/3.ecc39518.chunk.js": "/profile-card/static/js/3.ecc39518.chunk.js",
+    "static/js/3.ecc39518.chunk.js.map": "/profile-card/static/js/3.ecc39518.chunk.js.map",
+    "index.html": "/profile-card/index.html",
+    "static/css/main.e5f8b1cc.chunk.css.map": "/profile-card/static/css/main.e5f8b1cc.chunk.css.map",
+    "static/js/2.12957cd5.chunk.js.LICENSE.txt": "/profile-card/static/js/2.12957cd5.chunk.js.LICENSE.txt",
+    "static/media/github-square-brands.5eea8d09.svg": "/profile-card/static/media/github-square-brands.5eea8d09.svg",
+    "static/media/profile-card-pic.6ef4f812.jpeg": "/profile-card/static/media/profile-card-pic.6ef4f812.jpeg",
+    "static/media/thumbs-up-regular.c0c51d74.svg": "/profile-card/static/media/thumbs-up-regular.c0c51d74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fbe92f0.js",
+    "static/js/2.12957cd5.chunk.js",
+    "static/css/main.e5f8b1cc.chunk.css",
+    "static/js/main.987f3759.chunk.js"
+  ]
+}
